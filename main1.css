@@ -1,0 +1,12 @@
+#first{
+    color: black;
+    background: crimson url('https://avatars.mds.yandex.net/i?id=fbbbf86b99fe5b3fbb7256e6b02a985a1f3b50fa-12422342-images-thumbs&n=13')no-repeat center center;
+    height: 500px; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#second{
+    height: 2000px;
+}
