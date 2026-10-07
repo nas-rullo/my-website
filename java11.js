@@ -1,0 +1,18 @@
+class Person {
+    constructor(name, age , happiness){
+        this.name=name;
+        this.age=age;
+        this.happiness=happiness;
+
+    }
+
+    info(){
+      console.log("Челевок:"+this.name+"Возраст:"+this.age)
+
+    }
+
+    var alex=new Person('Alex',45, true);
+    var bob = new Person('bob',25,false);
+    alex.name='ALEX2'
+    alex.info();
+    bob.info();
